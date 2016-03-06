@@ -5,6 +5,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.Queue;
 
+// Sample graph code.
 public class Graph {
 
 	ArrayList<Vertex> nodes = new ArrayList<Vertex>();
